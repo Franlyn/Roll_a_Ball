@@ -473,14 +473,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4639472856572258, guid: c6264252a71c242a1814554df9be21ae, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 0.50000006
-      objectReference: {fileID: 0}
-    - target: {fileID: 4639472856572258, guid: c6264252a71c242a1814554df9be21ae, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 0.50000024
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c6264252a71c242a1814554df9be21ae, type: 2}
   m_IsPrefabParent: 0
@@ -815,7 +807,7 @@ GameObject:
   - component: {fileID: 1148735622}
   m_Layer: 0
   m_Name: Pick Ups
-  m_TagString: Untagged
+  m_TagString: Pick Up
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
